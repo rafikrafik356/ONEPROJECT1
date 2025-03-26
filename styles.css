@@ -16,7 +16,8 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 2rem auto;
+  margin: 1rem auto;
+  padding: -6rem 0.5rem;
   max-width: 1200px;
 }
 .navigation ul {
@@ -47,7 +48,7 @@ hr {
 }
 .arrow {
   position: absolute;
-  transform: translateX(-5.5rem) translateY(1.5rem);
+  transform: translateX(-4rem) translateY(1.5rem);
 }
 
 .heroSub {
